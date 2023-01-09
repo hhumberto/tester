@@ -1,4 +1,4 @@
-node("production") {
+node("developer") {
     
         stage("One"){
             
