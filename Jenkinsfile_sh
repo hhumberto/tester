@@ -1,5 +1,7 @@
+pipeline {
 
-agent ("developer") {
+agent "developer"
+
 
     stage ("Create build output")
     {
