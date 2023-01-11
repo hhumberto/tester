@@ -1,6 +1,6 @@
 
 
-agent any
+node
 
 {
     stage ("Create build output")
