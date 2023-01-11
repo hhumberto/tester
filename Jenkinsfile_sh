@@ -1,5 +1,6 @@
 
-node {
+agent ("developer") {
+
     stage ("Create build output")
     {
         // Make the output directory.
