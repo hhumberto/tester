@@ -1,6 +1,6 @@
 pipeline {
 
-agent "developer"
+agent any
 
 
     stage ("Create build output")
