@@ -24,5 +24,6 @@ node
     {
           sh "ps -ax"
           sh "netstat -r"
+          echo "This a variable of environment${BUILD_URL}"
       }
 }
