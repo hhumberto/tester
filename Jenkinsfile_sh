@@ -1,8 +1,8 @@
-pipeline {
+
 
 agent any
 
-
+{
     stage ("Create build output")
     {
         // Make the output directory.
