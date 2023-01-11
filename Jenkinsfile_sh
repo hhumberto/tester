@@ -1,5 +1,5 @@
 
-node('developer'){
+node("developer"){
     stage ("Create build output")
     {
         // Make the output directory.
